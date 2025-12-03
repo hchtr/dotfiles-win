@@ -1,3 +1,3 @@
 Clear-Host
 
-Set-Location -Path "C:\hchtr"
+Set-Location -Path "$env:HCHTR"
