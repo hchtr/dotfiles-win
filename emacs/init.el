@@ -12,5 +12,5 @@
 (set-frame-font "Consolas")
 
 (add-to-list 'custom-theme-load-path
-             (concat (getenv "HCHTR_HOME") "/repos/dotfiles-win/emacs/themes"))
+             (concat (getenv "HCHTR_HOME") "/repos/env/emacs/themes"))
 (load-theme 'hchtr t)
